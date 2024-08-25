@@ -25,33 +25,6 @@ To run this project, you need to have Python installed along with the following 
 - `scikit-learn`
 - `matplotlib`
 
-You can install the required libraries using pip:
-
-```bash
-pip install numpy pandas scikit-learn matplotlib
-
-# Create project directories
-mkdir -p instagram-ads-classification/data
-mkdir -p instagram-ads-classification/notebooks
-mkdir -p instagram-ads-classification/scripts
-mkdir -p instagram-ads-classification/results
-
-# Navigate to the project directory
-cd instagram-ads-classification
-
-# Create sample files for each directory
-touch data/ads_data.csv
-touch notebooks/analysis.ipynb
-touch scripts/logistic_regression.py
-touch scripts/svc.py
-touch scripts/random_forest.py
-touch scripts/decision_trees.py
-touch scripts/naive_bayes.py
-touch results/README.md
-
-# Create a sample README.md file in the results directory
-echo "# Results\n\nThis directory contains output results and accuracy metrics." > results/README.md
-
 ## Usage
 
 1. **Clone the repository:**
