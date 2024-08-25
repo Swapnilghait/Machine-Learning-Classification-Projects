@@ -63,11 +63,6 @@ To run this project, you need to have Python installed along with the following 
 
 This project demonstrates the performance of various classification algorithms for optimizing Instagram ads based on demographic and purchase data. Naive Bayes emerged as the most accurate algorithm in this scenario.
 
-## Acknowledgements
-
-- **PrepInsta**: For providing an excellent learning platform.
-- **[@Atulya Kaushik](#)**: For invaluable support and insights.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
